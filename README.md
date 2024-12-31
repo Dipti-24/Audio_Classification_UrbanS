@@ -1,1 +1,1 @@
-This project focuses on audio classification using the Sound8K dataset (or any other labeled audio dataset). The goal is to classify audio clips based on their content by extracting meaningful features from the raw audio data and feeding them into a machine learning classifier.
+This project focuses on audio classification using the Sound8K dataset. The goal is to classify audio clips based on their content by extracting meaningful features from the raw audio data and feeding them into a machine learning classifier.
