@@ -45,5 +45,11 @@ This project is licensed under the MIT License.
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality.
 
 **Contact**
+For any queries or collaboration opportunities, feel free to reach out:
 
-For questions or feedback, please reach out to me : mishradipti2402@gmail.com
+**Email**: mishradipti2402@gmail.com
+
+**GitHub:** github.com/Dipti-24
+
+**LinkedIn:** https://www.linkedin.com/in/dipti-mishra-3b4954215/
+
