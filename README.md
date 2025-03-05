@@ -1,5 +1,7 @@
 **Audio Classification using the Sound8K Dataset**
+
 **Project Overview**
+
 This project focuses on audio classification using the Sound8K dataset. The goal is to classify audio clips based on their content by extracting meaningful features from the raw audio data and feeding them into a machine learning classifier.
 
 **Dataset**
@@ -16,7 +18,7 @@ Ensure you have the following dependencies installed:
 
 pip install librosa tensorflow numpy scikit-learn
 
-**Implementation Steps****
+**Implementation Steps**
 
 **1. Load the dataset:** Extract and organize the audio clips with their respective labels.
 
@@ -32,4 +34,16 @@ pip install librosa tensorflow numpy scikit-learn
 
 **Conclusion**
 
-This project successfully classifies audio clips using MFCC feature extraction and deep learning techniques. Further improvements can be made by experimenting with different neural network architectures and feature extraction technique
+This project successfully classifies audio clips using MFCC feature extraction and deep learning techniques. Further improvements can be made by experimenting with different neural network architectures and feature extraction technique.
+
+**License**
+
+This project is licensed under the MIT License.
+
+**Contributing**
+
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality.
+
+**Contact**
+
+For questions or feedback, please reach out to me :mishradipti2402@gmail.com
