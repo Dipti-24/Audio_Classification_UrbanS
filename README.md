@@ -46,4 +46,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 
 **Contact**
 
-For questions or feedback, please reach out to me :mishradipti2402@gmail.com
+For questions or feedback, please reach out to me : mishradipti2402@gmail.com
