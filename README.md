@@ -38,7 +38,7 @@ This project successfully classifies audio clips using MFCC feature extraction a
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License]().
 
 ## Contributing
 
@@ -49,7 +49,5 @@ For any queries or collaboration opportunities, feel free to reach out:
 
  **Email:** mishradipti2402@gmail.com
 
-**GitHub:** github.com/Dipti-24
 
-**LinkedIn:** https://www.linkedin.com/in/dipti-mishra-3b4954215/
 
