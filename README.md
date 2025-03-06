@@ -38,7 +38,7 @@ This project successfully classifies audio clips using MFCC feature extraction a
 
 ## License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](https://github.com/Dipti-24/Audio_Classification_UrbanS/blob/main/LICENSE).
 
 ## Contributing
 
