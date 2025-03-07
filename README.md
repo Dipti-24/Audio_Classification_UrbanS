@@ -12,6 +12,11 @@ The dataset used in this project is the Sound8K dataset, which contains various 
 
 To process the raw audio data, we extract MFCC (Mel-Frequency Cepstral Coefficients) features using the librosa library. The extracted features serve as inputs to the machine learning model.
 
+## Tech Stack
+1. Python
+2. Librosa
+3. Matplotlib
+
 ## Requirements
 
 Ensure you have the following dependencies installed:
