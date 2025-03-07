@@ -20,7 +20,8 @@ To process the raw audio data, we extract MFCC (Mel-Frequency Cepstral Coefficie
 5. NumPy
 6. TensorFlow
 7. Keras
-
+8. Resampy
+9. MFCCs
 ## Requirements
 
 Ensure you have the following dependencies installed:
