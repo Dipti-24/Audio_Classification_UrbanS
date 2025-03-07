@@ -25,7 +25,7 @@ To process the raw audio data, we extract MFCC (Mel-Frequency Cepstral Coefficie
 
 Ensure you have the following dependencies installed:
 
-pip install librosa tensorflow numpy scikit-learn
+pip install librosa tensorflow numpy scikit-learn resampy
 
 ## Implementation Steps
 
