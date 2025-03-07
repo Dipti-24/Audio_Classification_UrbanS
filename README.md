@@ -16,6 +16,10 @@ To process the raw audio data, we extract MFCC (Mel-Frequency Cepstral Coefficie
 1. Python
 2. Librosa
 3. Matplotlib
+4. Pandas
+5. NumPy
+6. TensorFlow
+7. Keras
 
 ## Requirements
 
